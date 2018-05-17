@@ -44,6 +44,14 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
       <Private>True</Private>
@@ -214,7 +222,28 @@
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\ShopOnline.Common\ShopOnline.Common.csproj">
+      <Project>{eba996cb-edf7-490a-90b9-9782c1f3a2cb}</Project>
+      <Name>ShopOnline.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ShopOnline.Data\ShopOnline.Data.csproj">
+      <Project>{296782aa-0c4d-474b-8d97-097ed54098ce}</Project>
+      <Name>ShopOnline.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ShopOnline.Model\ShopOnline.Model.csproj">
+      <Project>{05664aaa-226b-4f9a-a413-e613c5048c0f}</Project>
+      <Name>ShopOnline.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ShopOnline.Service\ShopOnline.Service.csproj">
+      <Project>{78cfba0c-1e0c-440c-b45f-54be2a726d27}</Project>
+      <Name>ShopOnline.Service</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ShopOnline.UnitTest\ShopOnline.UnitTest.csproj">
+      <Project>{b40d17cd-bcb5-47b9-a483-f57f5d3afcbe}</Project>
+      <Name>ShopOnline.UnitTest</Name>
+    </ProjectReference>
+  </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
