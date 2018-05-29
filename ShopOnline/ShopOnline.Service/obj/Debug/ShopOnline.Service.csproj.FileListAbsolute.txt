@@ -14,7 +14,3 @@ D:\CNLTTH\Git\ShopOnline\ShopOnline.Service\bin\Debug\EntityFramework.SqlServer.
 D:\CNLTTH\Git\ShopOnline\ShopOnline.Service\obj\Debug\ShopOnline.Service.csprojResolveAssemblyReference.cache
 D:\CNLTTH\Git\ShopOnline\ShopOnline.Service\obj\Debug\ShopOnline.Service.dll
 D:\CNLTTH\Git\ShopOnline\ShopOnline.Service\obj\Debug\ShopOnline.Service.pdb
-D:\CNLTTH\Git\ShopOnline\ShopOnline.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
-D:\CNLTTH\Git\ShopOnline\ShopOnline.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
-D:\CNLTTH\Git\ShopOnline\ShopOnline.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-D:\CNLTTH\Git\ShopOnline\ShopOnline.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml

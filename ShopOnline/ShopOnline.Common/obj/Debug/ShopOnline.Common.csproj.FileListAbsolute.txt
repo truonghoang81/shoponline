@@ -6,3 +6,4 @@ D:\CNLTTH\Git\ShopOnline\ShopOnline.Common\bin\Debug\EntityFramework.xml
 D:\CNLTTH\Git\ShopOnline\ShopOnline.Common\bin\Debug\EntityFramework.SqlServer.xml
 D:\CNLTTH\Git\ShopOnline\ShopOnline.Common\obj\Debug\ShopOnline.Common.dll
 D:\CNLTTH\Git\ShopOnline\ShopOnline.Common\obj\Debug\ShopOnline.Common.pdb
+D:\CNLTTH\Git\ShopOnline\ShopOnline.Common\obj\Debug\ShopOnline.Common.csprojResolveAssemblyReference.cache

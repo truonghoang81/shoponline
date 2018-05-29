@@ -58,7 +58,3 @@ D:\CNLTTH\Git\ShopOnline\ShopOnline.Web\bin\Antlr3.Runtime.pdb
 D:\CNLTTH\Git\ShopOnline\ShopOnline.Web\obj\Debug\ShopOnline.Web.csprojResolveAssemblyReference.cache
 D:\CNLTTH\Git\ShopOnline\ShopOnline.Web\obj\Debug\ShopOnline.Web.dll
 D:\CNLTTH\Git\ShopOnline\ShopOnline.Web\obj\Debug\ShopOnline.Web.pdb
-D:\CNLTTH\Git\ShopOnline\ShopOnline.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-D:\CNLTTH\Git\ShopOnline\ShopOnline.Web\bin\Microsoft.AspNet.Identity.Core.dll
-D:\CNLTTH\Git\ShopOnline\ShopOnline.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-D:\CNLTTH\Git\ShopOnline\ShopOnline.Web\bin\Microsoft.AspNet.Identity.Core.xml

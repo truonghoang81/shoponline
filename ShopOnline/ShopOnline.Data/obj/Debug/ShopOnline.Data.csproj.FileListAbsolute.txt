@@ -14,8 +14,4 @@ D:\CNLTTH\Git\ShopOnline\ShopOnline.Data\obj\Debug\ShopOnline.Data.dll
 D:\CNLTTH\Git\ShopOnline\ShopOnline.Data\obj\Debug\ShopOnline.Data.pdb
 D:\CNLTTH\Git\ShopOnline\ShopOnline.Data\obj\Debug\ShopOnline.Data.Migrations.InitialDB.resources
 D:\CNLTTH\Git\ShopOnline\ShopOnline.Data\obj\Debug\ShopOnline.Data.csproj.GenerateResource.Cache
-D:\CNLTTH\Git\ShopOnline\ShopOnline.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
-D:\CNLTTH\Git\ShopOnline\ShopOnline.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
-D:\CNLTTH\Git\ShopOnline\ShopOnline.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-D:\CNLTTH\Git\ShopOnline\ShopOnline.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 D:\CNLTTH\Git\ShopOnline\ShopOnline.Data\obj\Debug\ShopOnline.Data.Migrations.addApplicationUser.resources

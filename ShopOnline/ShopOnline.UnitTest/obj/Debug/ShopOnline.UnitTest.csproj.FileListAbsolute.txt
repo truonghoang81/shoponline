@@ -17,7 +17,3 @@ D:\CNLTTH\Git\ShopOnline\ShopOnline.UnitTest\bin\Debug\EntityFramework.SqlServer
 D:\CNLTTH\Git\ShopOnline\ShopOnline.UnitTest\obj\Debug\ShopOnline.UnitTest.csprojResolveAssemblyReference.cache
 D:\CNLTTH\Git\ShopOnline\ShopOnline.UnitTest\obj\Debug\ShopOnline.UnitTest.dll
 D:\CNLTTH\Git\ShopOnline\ShopOnline.UnitTest\obj\Debug\ShopOnline.UnitTest.pdb
-D:\CNLTTH\Git\ShopOnline\ShopOnline.UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
-D:\CNLTTH\Git\ShopOnline\ShopOnline.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.dll
-D:\CNLTTH\Git\ShopOnline\ShopOnline.UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-D:\CNLTTH\Git\ShopOnline\ShopOnline.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.xml
