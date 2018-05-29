@@ -1,0 +1,16 @@
+D:\CNLTTH\Git\ShopOnline\ShopOnline.Model\bin\Debug\ShopOnline.Model.dll.config
+D:\CNLTTH\Git\ShopOnline\ShopOnline.Model\bin\Debug\ShopOnline.Model.dll
+D:\CNLTTH\Git\ShopOnline\ShopOnline.Model\bin\Debug\ShopOnline.Model.pdb
+D:\CNLTTH\Git\ShopOnline\ShopOnline.Model\bin\Debug\EntityFramework.dll
+D:\CNLTTH\Git\ShopOnline\ShopOnline.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\CNLTTH\Git\ShopOnline\ShopOnline.Model\bin\Debug\ShopOnline.Common.dll
+D:\CNLTTH\Git\ShopOnline\ShopOnline.Model\bin\Debug\ShopOnline.Common.pdb
+D:\CNLTTH\Git\ShopOnline\ShopOnline.Model\bin\Debug\EntityFramework.xml
+D:\CNLTTH\Git\ShopOnline\ShopOnline.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\CNLTTH\Git\ShopOnline\ShopOnline.Model\obj\Debug\ShopOnline.Model.csprojResolveAssemblyReference.cache
+D:\CNLTTH\Git\ShopOnline\ShopOnline.Model\obj\Debug\ShopOnline.Model.dll
+D:\CNLTTH\Git\ShopOnline\ShopOnline.Model\obj\Debug\ShopOnline.Model.pdb
+D:\CNLTTH\Git\ShopOnline\ShopOnline.Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\CNLTTH\Git\ShopOnline\ShopOnline.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CNLTTH\Git\ShopOnline\ShopOnline.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\CNLTTH\Git\ShopOnline\ShopOnline.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
